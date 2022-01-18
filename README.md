@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, you can call me lei 👋
 
-<!--
-**leinard2303/leinard2303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on lots of my personal projects.
+- 🌱 I’m currently learning Front-end Web Development.
+
+
+- 💬 Ask me about anything.
+- 📫 How to reach me: Discord! noturmamma#0001
+
+- ⚡ Fun fact: No one likes a know it all ^_^
+
