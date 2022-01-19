@@ -5,7 +5,7 @@
 
 Here are some ideas about me:
 
-- 🔭 I’m currently working on my personal project.
+- 🔭 I’m currently working on my personal project.(leinard.xyz)
 - 🌱 I’m currently learning Front-end Web Development.
 
 
