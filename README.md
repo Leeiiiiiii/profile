@@ -10,7 +10,7 @@ Here are some ideas about me:
 
 
 - 💬 Ask me about anything.
-- 📫 How to reach me: Discord! noturmamma#0001
+- 📫 How to reach me: Discord: ! noturmamma#0001
 
 - ⚡ Fun fact: No one likes a know it all ^_^
 
