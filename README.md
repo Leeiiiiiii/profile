@@ -5,7 +5,7 @@
 
 Here are some ideas about me:
 
-- 🌱 I’m currently learning Front-end Web Development.
+- 🌱 I’m currently learning Full Stack Web Development.
 
 
 - 💬 Ask me about anything.
