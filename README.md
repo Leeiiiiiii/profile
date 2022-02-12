@@ -5,7 +5,7 @@
 
 Here are some ideas about me:
 
-- 🌱 I’m currently learning ML and Full Stack Web Development.
+- 🌱 I mostly spend my time playing around with a bunch of cool API's and learning Full Stack Web Development.
 
 
 - 💬 Ask me about anything.
