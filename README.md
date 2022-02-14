@@ -5,7 +5,7 @@
 
 Here are some ideas about me:
 
-- 💻 Learning Full Stack Web Development.
+- 💻 Learning Full Stack Development.
 
 - 🌱 I mostly spend my free time reading sci-fi and mystery novels.
 
