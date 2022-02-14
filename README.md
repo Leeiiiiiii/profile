@@ -7,7 +7,7 @@ Here are some ideas about me:
 
 - 💻 Learning Full Stack Web Development.
 
-- 🌱 I mostly spend my time playing around with a bunch of cool API's.
+- 🌱 I mostly spend my free time sleeping.
 
 - 💬 Ask me about anything.
 
