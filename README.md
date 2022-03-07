@@ -11,5 +11,7 @@ Here are some ideas about me:
 
 - 💬 Ask me about anything.
 
+- ✉️ You can contact me here: d0ut@pm.me
+
 - ⚡ Fun fact: No one likes a know it all ^_^
 
