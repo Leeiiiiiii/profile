@@ -8,7 +8,7 @@
 
 ## 💬 About me
 - 🌱 Currently learning NLP(Natural Language Processing)
-- ☕ Interests:  🎾 Data Science • ♟️ Cyber Security • 👩‍💻 Programming
+- ☕ Interests:  🔎 Data Science • 💻 Cyber Security • 👩‍💻 Programming
 
 ## ⚙️ Languages & Framework:
 
