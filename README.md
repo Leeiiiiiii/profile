@@ -19,6 +19,7 @@
 
 ## ⚙️Tools:
 ![JupyterLab](https://img.shields.io/badge/-Jupyter%20Notebook-orange)
+![Colab Notebook](https://img.shields.io/badge/-Colab%20Notebook-yellow)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
