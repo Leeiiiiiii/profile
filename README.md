@@ -7,7 +7,7 @@
 
 
 ## 💬 About me
-- 🌱 Studying data analysis and modelling techniques.
+- 🌱 Studying data analysis and modeling techniques.
 - ☕ Interests:  🔎 Data Science • 💻 Cyber Security • 👩‍💻 Programming
 
 ## ⚙️ Languages & Framework:
