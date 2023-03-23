@@ -1,6 +1,6 @@
 ---------------------------
 <div align="center">
-  <h2> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi there, I'm Danielle </h2>
+  <h2> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi there, I'm Lei </h2>
 </div>
 
 ---------------------------
